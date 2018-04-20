@@ -1,3 +1,4 @@
 # hello-world
-Learning repo
+Learning repo.
+
 Just refreshing git essentials.
